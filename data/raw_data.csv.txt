@@ -1,0 +1,11 @@
+id,name,age,gender,salary,join_date,department
+1,Ahmed Ali,25,Male,5000,2022-01-15,Engineering
+2,Sara Mohamed,30,Female,7000,2021/12/01,HR
+3,John Doe,,Male,12000,15-03-2020,Finance
+4,  ahmed ali ,25,Male,5000,2022-01-15,Engineering
+5,Mona Khaled,29,Female,,2023-05-10,Marketing
+6,Ali Hassan,45,Male,250000,2020-07-20,Management
+7,Laila Noor,27,Female,6500,not_a_date,HR
+8,Karim Adel,31,Male,7200,2021-11-11,Engineering
+9,Sara Mohamed,30,Female,7000,2021/12/01,HR
+10,,22,Female,4000,2023-02-01,Support
